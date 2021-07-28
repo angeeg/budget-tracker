@@ -2,10 +2,10 @@ const APP_PREFIX = 'BudgetTracker-';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
-    "public/index.html",
-    "public/js/idb.js",
-    "public/js/index.min.js",
-    "public/css/style.css"
+    "/public/index.html",
+    "/public/js/idb.js",
+    "/public/js/index.min.js",
+    "/public/css/style.css"
 ]
 
 // we use self instead of window.addEvent.. because service workers run 
