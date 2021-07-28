@@ -146,8 +146,10 @@ function sendTransaction(isAdding) {
 
 document.querySelector("#add-btn").onclick = function() {
   sendTransaction(true);
+  alert('Deposit was added to budget successfully!');
 };
 
 document.querySelector("#sub-btn").onclick = function() {
   sendTransaction(false);
+  alert('Expense was subtracted from budget successfully!');
 };
