@@ -1,4 +1,5 @@
 {
+  "homepage": "https://stormy-woodland-95286.herokuapp.com/",
   "name": "budget-app",
   "version": "1.0.0",
   "description": "",
@@ -10,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/angeeg/budget-tracker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/angeeg/budget-tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
